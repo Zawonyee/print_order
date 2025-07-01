@@ -1,0 +1,32 @@
+[
+  {
+    "machine": "海德堡 XL106-8",
+    "type": "小全开八色",
+    "model": "XL106",
+    "max_width_mm": 750,
+    "max_length_mm": 1060,
+    "color_units": 8,
+    "speed_sheets_per_hour": 15000,
+    "supports_spot_color": true
+  },
+  {
+    "machine": "海德堡 XL105-8",
+    "type": "小全开八色",
+    "model": "XL105",
+    "max_width_mm": 740,
+    "max_length_mm": 1050,
+    "color_units": 8,
+    "speed_sheets_per_hour": 15000,
+    "supports_spot_color": true
+  },
+  {
+    "machine": "海德堡 SM102-8",
+    "type": "对开八色",
+    "model": "SM102",
+    "max_width_mm": 720,
+    "max_length_mm": 1020,
+    "color_units": 8,
+    "speed_sheets_per_hour": 13000,
+    "supports_spot_color": true
+  }
+]

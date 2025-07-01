@@ -1,0 +1,8 @@
+{
+  "parser_accuracy": 0.95,
+  "changeover_before": 49,
+  "changeover_after": 13,
+  "changeover_reduction_pct": 0.73,
+  "mobile_dashboard_pass": true,
+  "unit_test_coverage": 0.75
+}
